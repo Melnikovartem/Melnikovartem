@@ -1,4 +1,4 @@
-## Hi, I'm Artem, an <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=2F80ED&vCenter=true&multiline=false&width=320&height=32&lines=ML+Engineer;Recsys+Builder;Growth+Engineer;Recommendations" alt="rotating role titles" valign="middle" />
+## Hi, I'm Artem, an <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=2F80ED&vCenter=true&multiline=false&width=380&height=32&lines=ML+Engineer;Jupyter+Lover;Recsys+Builder;3D+Printing+Enthusiast;Growth+Engineer;LLM+Token;Gym+Rat+%F0%9F%90%80" alt="rotating role titles" valign="middle" />
 
 I spend most of my time on recsys, ranking, and the experimentation loop around them — building the models, the pipelines that serve them, and the infra to test whether they actually move numbers.
 
